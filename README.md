@@ -1,6 +1,6 @@
 # React-User-System
 
-A single-page user-system made with ReactJS. Also includes authentication & many more!!
+A single-page user-system made with MERN stack & Redux!!
 
 # Own the project
 1. Open PHPMyAdmin, create a DB & import `react-user-system.sql` file.
